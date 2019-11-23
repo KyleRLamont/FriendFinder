@@ -129,4 +129,4 @@ var friendMatch = [
     }
 ]
 
-module.exports(friendMatch);
+module.exports = friendMatch;
