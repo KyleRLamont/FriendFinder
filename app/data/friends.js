@@ -1,5 +1,3 @@
-var friends = require("")
-
 var frienddata = [
     {
         "name": "Ahmed",
