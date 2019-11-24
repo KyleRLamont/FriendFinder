@@ -11,7 +11,7 @@ Live Application:
 ## Problem: 
 Want to date but hate actually going out? Here's Friend-Finder. Think if Facebook, Tinder, and OKCupid had a baby. It's the app no one asked for.
 
-[Capture1](/images/oh-god-why.png)
+![Capture1](/images/oh-god-why.png)
 
 ## Organization: 
 The app is organized as-
