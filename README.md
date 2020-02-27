@@ -1,5 +1,4 @@
 # FriendFinder
-# Bamazon
 
 ## Download Repository
 Copy the link to clone:
